@@ -1,5 +1,3 @@
-![Hi there, I'm Will](https://user-images.githubusercontent.com/99286590/226027919-b8e72873-b424-445a-87b6-67b1648f48d9.png)
-
 
 <p align="center">
 Front-End Software Developer Certificate from <a href="https://turing.edu/">Turing School of Software & Design</a>
